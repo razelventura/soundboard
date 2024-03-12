@@ -8,6 +8,10 @@ Date: 2024-03-10
 Brief: An explanation of the thinking process / considerations for the Soundboard app.
 
 
+NOTE TO STEPHEN:  
+The app was only tested on iOS and not Android.  
+
+
 DEPENDENCIES  
 Make sure to install SQLite and AV using the following terminal commands:    
 `npx expo install expo-sqlite`   
